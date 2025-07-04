@@ -56,6 +56,6 @@ if submitted and (
 elif submitted:
     st.warning("Please complete all fields before submitting.")
 
-# 🔄 Optional: Refresh Button
 if st.button("🔄 Clear Form"):
+    st.session_state.clear()
     st.experimental_rerun()
