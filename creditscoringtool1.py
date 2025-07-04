@@ -1,5 +1,8 @@
 import streamlit as st
 
+if "form_started" not in st.session_state:
+    st.session_state["form_started"] = False
+
 st.title("🏦 SME Credit Readiness Check")
 
 st.markdown("""
@@ -46,3 +49,5 @@ if submitted:
 
     st.success(f"Your credit score is **{score}/50** — {risk}")
 
+if st.button("🔄 Clear Form"):
+    st.experimental_rerun()
