@@ -56,10 +56,20 @@ if submitted and (
 elif submitted:
     st.warning("Please complete all fields before submitting.")
 
-# 🔄 Optional: Refresh Button — safe version
+# 🔄 Safe Clear Form button — no rerun
 if st.button("🔄 Clear Form"):
-    st.session_state.clear()
-    st.experimental_rerun()
+    st.session_state.update({
+        "sme_form": None,
+        "bus_status": None,
+        "mnt_prft": None,
+        "tracking": None,
+        "credit": None,
+        "defaults": None,
+        "media": None
+    })
+    st.experimental_set_query_params(reset="true")
+    st.success("Form reset! You can start fresh now.")
+
 
 
 
