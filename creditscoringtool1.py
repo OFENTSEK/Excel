@@ -50,25 +50,12 @@ if submitted and (
         risk = "🔴 High Risk"
         tip = "Work on building a digital presence and tracking tools to improve future funding eligibility."
 
-        st.success(f"Your credit score is **{score}/50** — {risk}")
+    st.success(f"Your credit score is **{score}/50** — {risk}")
     st.info(tip)
 
 elif submitted:
     st.warning("Please complete all fields before submitting.")
 
-# 🔄 Safe Clear Form button — no rerun
-if st.button("🔄 Clear Form"):
-    st.session_state.update({
-        "sme_form": None,
-        "bus_status": None,
-        "mnt_prft": None,
-        "tracking": None,
-        "credit": None,
-        "defaults": None,
-        "media": None
-    })
-    st.experimental_set_query_params(reset="true")
-    st.success("Form reset! You can start fresh now.")
 
 
 
