@@ -1,0 +1,71 @@
+﻿bus_name,bus_type,start_date,no employ,mnt_prft,bus_status,pay_sys,avg_tran,receipts,tracking,credit,defaults,loan_amnt,use,media,bus_app,obstacle,Credit score,Credit Risk
+Thando Threads,Retail,2020-06,2,"R15,000",Yes,SnapScan;Cash,80,Yes,Manual,Yes,No,"R20,000",Stock,Instagram,Trello;Google Sheets,Seasonal demand,30,Medium Risk
+GreenHive Gardens,Agriculture,2021-03,4,"R25,000",Yes,EFT;Cash,50,No,Manual,No,No,"R30,000",Equipment,Facebook,None,Access to capital,35,Medium Risk
+KamoTech Repairs,Services,2019-10,3,"R10,000",No,Cash;EFT,40,Yes,Not at all,Yes,Yes,"R10,000",Marketing,WhatsApp,Trello;Xero,Customer acquisition,5,High Risk
+SunShine Café,Retail,2022-01,5,"R30,000",Yes,Yoco;SnapScan,120,Yes,Digital,No,No,"R15,000",Stock,Instagram;TikTok,Square POS;Google Sheets,Staff retention,40,Low Risk
+Noma Prints,Manufacturing,2020-11,1,"R12,000",No,EFT;Cash,30,Yes,Manual,No,No,"R12,000",New printer,Facebook,None,Marketing budget,25,High Risk
+Neo Mechanics,Services,2018-05,2,"R10,000",Yes,Cash,25,No,Not at all,Yes,Yes,"R8,000",Tool upgrades,None,None,Low foot traffic,10,High Risk
+Berry & Bean,Retail,2021-07,3,"R15,000",Yes,Yoco;Cash,90,Yes,Manual,No,No,"R18,000",Inventory,Instagram;Facebook,Excel,Advertising reach,35,Medium Risk
+Vuyo Vending,Retail,2023-02,1,"R8,000",No,Cash,20,No,Not at all,No,No,"R5,000",Marketing,None,None,Product awareness,15,High Risk
+Khosi Connect,Services,2022-10,4,"R18,000",Yes,SnapScan;EFT,60,Yes,Manual,Yes,No,"R25,000",Digital equipment,Instagram;WhatsApp,Google Drive;Asana,Tech upgrades,30,Medium Risk
+Mandisa Media,Services,2019-09,3,"R20,000",Yes,EFT,45,Yes,Digital,No,No,"R22,000",Ad campaigns,Facebook;Instagram,Trello;Canva,Client retention,40,Low Risk
+Mo’s Groceries,Retail,2018-11,2,"R14,000",Yes,Cash;EFT,70,Yes,Manual,No,No,"R14,000",Stock,Facebook,None,Cash flow inconsistency,35,Medium Risk
+Khula Crafts,Manufacturing,2021-01,1,"R9,000",No,Cash,35,No,Not at all,No,No,"R6,000",Materials,Instagram,None,Supply chain delays,20,High Risk
+Zuki Styles,Retail,2022-08,2,"R15,000",Yes,Yoco;SnapScan,80,Yes,Digital,No,No,"R20,000",Stock,Instagram;TikTok,Canva,Low repeat business,40,Low Risk
+Njabulo Logistics,Services,2020-06,5,"R40,000",Yes,EFT,100,Yes,Digital,Yes,No,"R35,000",Vehicle maintenance,Facebook,Trello;QuickBooks,Fuel costs,35,Medium Risk
+Mama T’s Kitchen,Retail,2019-03,3,"R20,000",Yes,Cash,85,Yes,Manual,No,Yes,"R16,000",Expansion,Facebook,None,Limited space,25,High Risk
+Zulu Harvest,Agriculture,2020-02,4,"R25,000",Yes,Cash;EFT,50,Yes,Manual,No,No,"R20,000",Equipment,None,None,Land rental fees,30,Medium Risk
+Xolani Fix It,Services,2018-08,2,"R9,000",No,Cash,30,No,Not at all,Yes,Yes,"R7,000",Marketing,WhatsApp,None,Customer reach,5,High Risk
+Khayelitsha Ink,Retail,2021-12,2,"R13,000",Yes,EFT;Yoco,75,Yes,Digital,No,No,"R15,000",Printer & ink,Instagram,Google Sheets;Canva,Equipment costs,40,Low Risk
+Bright Bags,Manufacturing,2020-10,3,"R17,000",Yes,Cash;EFT,55,Yes,Manual,No,No,"R18,000",Materials,Facebook,None,Marketing leads,35,Medium Risk
+Wanda Wellness,Services,2019-05,2,"R22,000",Yes,EFT,40,Yes,Digital,No,No,"R20,000",Client onboarding,TikTok;Instagram,Calendly,Client loyalty,40,Low Risk
+eKasi Grocery,Retail,2022-04,1,"R12,000",No,Cash,25,No,Manual,No,No,"R10,000",Stock,None,None,No foot traffic,20,High Risk
+Lebo Lines,Agriculture,2023-01,2,"R15,000",Yes,EFT;Cash,35,Yes,Manual,No,No,"R15,000",Packaging tools,None,None,Delayed payments,30,Medium Risk
+Sipho’s Auto,Services,2021-06,5,"R30,000",Yes,EFT,110,Yes,Manual,Yes,No,"R30,000",Workshop tools,WhatsApp,Trello;Xero,Parts availability,30,Medium Risk
+Mimi Marketplace,Retail,2019-12,3,"R18,000",Yes,Yoco;SnapScan,90,Yes,Manual,No,No,"R18,000",Stock,Instagram,Trello;Square POS,Stock turnover,35,Medium Risk
+Chuma Prints,Manufacturing,2020-05,1,"R11,000",No,Cash,30,Yes,Manual,No,No,"R10,000",Materials,None,None,Printer maintenance,20,High Risk
+Zandi Denim,Retail,2020-09,2,"R16,000",Yes,Yoco;Cash,75,Yes,Manual,No,No,"R17,000",Stock,Instagram,Trello;Excel,Slow inventory turnover,35,Medium Risk
+Boitumelo Braids,Services,2021-04,1,"R9,000",No,Cash,30,No,Manual,No,No,"R8,000",Marketing,Facebook,None,Client cancellations,25,High Risk
+Imbokodo Organics,Agriculture,2022-06,4,"R18,000",Yes,EFT;Cash,55,Yes,Manual,No,No,"R20,000",Greenhouse setup,Instagram;Facebook,None,Climate unpredictability,35,Medium Risk
+Sizwe Solutions,Services,2019-01,3,"R22,000",Yes,EFT,60,Yes,Manual,No,No,"R24,000",Software upgrade,WhatsApp;LinkedIn,Trello;Slack,Limited digital capacity,35,Medium Risk
+Tumi’s Tech Fix,Services,2020-07,2,"R12,000",Yes,Cash;EFT,45,Yes,Manual,No,No,"R10,000",Tools replacement,None,None,Parts sourcing delays,30,Medium Risk
+Mama’s Meals,Retail,2021-09,3,"R15,000",Yes,Cash;Yoco,85,Yes,Manual,No,No,"R18,000",Kitchen upgrade,Instagram,Google Sheets,Power outages,35,Medium Risk
+Shaka Bikes,Retail,2018-04,4,"R25,000",Yes,EFT;Cash,60,Yes,Digital,Yes,No,"R28,000",Expansion,Facebook;TikTok,Trello;Square POS,Seasonal demand,35,Medium Risk
+Artisan Roots,Manufacturing,2023-01,2,"R11,000",No,Cash,25,No,Not at all,No,No,"R7,000",Materials,Instagram,None,Raw material cost,20,High Risk
+Precious Paws,Services,2020-10,2,"R13,000",Yes,EFT,40,Yes,Digital,No,No,"R15,000",Client retention tools,Facebook,Trello;Google Forms,Marketing cost,40,Low Risk
+Gugulethu Mobile,Services,2019-07,5,"R30,000",Yes,EFT,95,Yes,Digital,No,No,"R30,000",Device stock,Instagram;WhatsApp,Zoho;QuickBooks,Price competition,40,Low Risk
+Nomvula’s Boutique,Retail,2021-11,2,"R14,000",Yes,Yoco;Cash,70,Yes,Manual,No,No,"R16,000",Fashion stock,TikTok;Facebook,Canva;Excel,Customer engagement,35,Medium Risk
+EcoSoap Collective,Manufacturing,2022-05,3,"R12,000",No,Cash;EFT,40,Yes,Manual,No,No,"R10,000",Packaging upgrades,None,None,Supply chain disruption,20,High Risk
+Bra Vusi Chicken,Retail,2020-08,4,"R18,000",Yes,Cash,85,Yes,Manual,Yes,Yes,"R20,000",Freezer repair,None,None,Fuel prices,15,High Risk
+Digital Dladla,Services,2018-12,3,"R25,000",Yes,EFT,70,Yes,Digital,No,No,"R25,000",Marketing automation,LinkedIn,Trello;Zapier,Lead conversion,40,Low Risk
+Lerato Design Hub,Services,2019-10,2,"R20,000",Yes,EFT;Cash,45,Yes,Digital,No,No,"R18,000",Equipment upgrade,Instagram;Facebook,Canva;Google Drive,Client acquisition,40,Low Risk
+Samu’s Veggies,Agriculture,2021-03,2,"R16,000",Yes,Cash;EFT,55,Yes,Manual,No,No,"R15,000",Irrigation pump,None,None,Pests and soil issues,30,Medium Risk
+Urban Sneakers,Retail,2020-01,1,"R10,000",No,Cash;SnapScan,40,Yes,Manual,No,No,"R8,000",Shoe stock,Instagram,Trello,Location visibility,25,High Risk
+Nomzamo’s Nails,Services,2022-09,2,"R14,000",Yes,Yoco;Cash,65,Yes,Digital,No,No,"R14,000",Salon furniture,Facebook;WhatsApp,Canva,Customer loyalty,40,Low Risk
+uMama Projects,Services,2018-06,5,"R30,000",Yes,EFT;Cash,90,Yes,Digital,Yes,No,"R28,000",Construction tools,LinkedIn;Facebook,Excel;QuickBooks,Project delays,35,Medium Risk
+Kids’ Corner Café,Retail,2023-03,3,"R16,000",Yes,Cash;Yoco,80,Yes,Manual,No,No,"R20,000",Outdoor play area,Instagram,Trello;Canva,Space limitations,35,Medium Risk
+Sino Solar,Agriculture,2020-06,4,"R22,000",Yes,EFT,50,Yes,Manual,No,No,"R20,000",Solar tools,LinkedIn,Trello;Slack,Licensing and permits,35,Medium Risk
+Elite Touch Decor,Services,2021-12,2,"R16,000",Yes,Cash;EFT,55,Yes,Digital,No,No,"R15,000",Materials,Instagram;Facebook,Google Sheets;Canva,Pricing inconsistencies,40,Low Risk
+Bhuti Bakes,Retail,2019-09,1,"R9,000",No,Cash,30,No,Manual,No,No,"R6,000",Oven upgrade,None,None,Limited client base,20,High Risk
+MaZulu Creations,Manufacturing,2020-03,3,"R20,000",Yes,Cash;EFT,60,Yes,Manual,No,No,"R20,000",Stock materials,Facebook;Instagram,Excel,Shipping delays,35,Medium Risk
+Tutu Health Store,Retail,2021-05,2,"R13,000",Yes,SnapScan;Yoco,65,Yes,Manual,No,No,"R15,000",Inventory,Instagram;TikTok,Trello,Customer retention,35,Medium Risk
+Kabelo’s Fresh Cuts,Services,2020-10,2,"R11,000",Yes,Cash,40,Yes,Manual,No,No,"R10,000",Equipment upgrade,Instagram,None,Client trust,35,Medium Risk
+Thandi’s Tea Spot,Retail,2022-02,1,"R8,000",No,Cash;SnapScan,30,No,Manual,No,No,"R5,000",Inventory,None,None,Visibility,20,High Risk
+Eco Auto Clean,Services,2019-06,3,"R20,000",Yes,EFT,60,Yes,Manual,No,No,"R22,000",Cleaning tools,Facebook,Trello;Google Sheets,Marketing cost,35,Medium Risk
+Naledi Pets,Retail,2021-07,2,"R14,000",Yes,Cash;Yoco,55,Yes,Digital,No,No,"R16,000",Stock renewal,Instagram,Trello;Canva,Customer reach,40,Low Risk
+Skhaftin Boxes,Manufacturing,2020-01,4,"R25,000",Yes,EFT,70,Yes,Manual,No,No,"R25,000",Materials,LinkedIn,None,Delivery logistics,35,Medium Risk
+Gogo’s Kitchen,Retail,2023-04,1,"R9,000",No,Cash,20,No,Manual,No,No,"R7,000",Pan upgrade,None,None,Daily demand fluctuation,20,High Risk
+Bantu Digital,Services,2022-06,3,"R17,000",Yes,EFT;SnapScan,50,Yes,Digital,No,No,"R20,000",Ad campaigns,WhatsApp,Trello;Slack,Client acquisition,40,Low Risk
+Zulu Tools,Services,2020-11,2,"R12,000",Yes,Cash;EFT,40,Yes,Manual,No,No,"R15,000",Tool upgrades,None,None,Sourcing delays,30,Medium Risk
+Mbali Bloom,Agriculture,2021-10,4,"R22,000",Yes,EFT,50,Yes,Manual,No,No,"R20,000",Irrigation setup,Facebook,None,Pest control,35,Medium Risk
+Ocean Threads,Retail,2019-02,3,"R18,000",Yes,Yoco;Cash,85,Yes,Manual,No,No,"R18,000",New collection,Instagram;Facebook,Excel,Return rate,35,Medium Risk
+Leano Legal Connect,Services,2020-08,2,"R16,000",Yes,EFT;SnapScan,45,Yes,Digital,No,No,"R20,000",CRM software,LinkedIn,Trello;Asana,Client onboarding,40,Low Risk
+Mama’s Mart,Retail,2022-03,2,"R10,000",No,Cash,35,No,Manual,No,No,"R8,000",Stock increase,None,None,Foot traffic,20,High Risk
+Digital Makhazi,Services,2021-01,3,"R19,000",Yes,EFT,60,Yes,Digital,No,No,"R22,000",Equipment upgrade,Facebook;LinkedIn,Trello;Google Drive,Power cuts,40,Low Risk
+Nomzamo Bakes,Retail,2020-06,1,"R8,000",No,Cash,25,No,Manual,No,No,"R6,000",Oven maintenance,None,None,Low awareness,20,High Risk
+Kagiso Woodworks,Manufacturing,2022-05,4,"R24,000",Yes,EFT;Cash,55,Yes,Manual,No,No,"R25,000",Timber stock,Instagram,None,Transport cost,35,Medium Risk
+Smart EduTech,Services,2019-08,3,"R22,000",Yes,EFT,70,Yes,Digital,No,No,"R25,000",LMS platform,LinkedIn,Trello;Slack,Student retention,40,Low Risk
+Flava Bites,Retail,2020-04,2,"R12,000",Yes,Cash;Yoco,65,Yes,Manual,No,No,"R15,000",Kitchen stock,TikTok;Instagram,Canva;Google Sheets,Stock rotation,35,Medium Risk
+Zanele Farming,Agriculture,2021-02,3,"R16,000",Yes,Cash;EFT,45,Yes,Manual,No,No,"R18,000",Seed and equipment,None,None,Irrigation delays,30,Medium Risk
+Khwezi Courier,Services,2018-10,5,"R35,000",Yes,EFT,90,Yes,Digital,Yes,No,"R32,000",Vehicle parts,WhatsApp;LinkedIn,Trello;Google Drive,Fuel pricing,35,Medium Risk
+Lungi Fashion,Retail,2019-06,2,"R13,000",Yes,Yoco;Cash,60,Yes,Manual,No,No,"R15,000",Fabric stock,Instagram;Facebook,Canva,Customer loyalty,35,Medium Risk
