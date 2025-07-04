@@ -1,3 +1,5 @@
+import streamlit as st
+
 st.title("🏦 SME Credit Readiness Check")
 
 st.markdown("""
